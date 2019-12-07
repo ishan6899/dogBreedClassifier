@@ -23,7 +23,7 @@ Try to use a GPU to speed up the training.
 
 ## Datasets Link
 
-Dog Dataset-https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+Dog Dataset-https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip <br>
 Human Dataset-https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
 
 ## Contribution
