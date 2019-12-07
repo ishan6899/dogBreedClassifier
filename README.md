@@ -32,4 +32,4 @@ If you find any error or want to add/suggest something feel free to contribute
 
 ## License
 
-The contents of this Repository is covered under the [MIT license][https://github.com/ishan6899/dogBreedClassifier/blob/master/LICENSE]
+The contents of this Repository is covered under the [MIT license](https://github.com/ishan6899/dogBreedClassifier/blob/master/LICENSE)
