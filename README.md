@@ -30,3 +30,6 @@ Human Dataset-https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zi
 
 If you find any error or want to add/suggest something feel free to contribute
 
+## License
+
+The contents of this Repository is covered by MIT covered
